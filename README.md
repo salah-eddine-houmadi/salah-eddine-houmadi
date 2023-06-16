@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/salah eddine houmadi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="salah eddine houmadi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/salah-eddine-houmadi-a704a721a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salah-eddine-houmadi-a704a721a/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,3 +15,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=salah-eddine-houmadi&show_icons=true&locale=en&layout=compact" alt="salah-eddine-houmadi" /></p>
+

@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Salah Eddine 👋
 
-<!--
-**salah-eddine-houmadi/salah-eddine-houmadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Front-End Developer (Angular, React)  
+🚀 MERN Stack Developer  
+📍 Morocco  
 
-Here are some ideas to get you started:
+## 🛠️ Technologies
+- Angular
+- React
+- JavaScript
+- Node.js
+- MongoDB
+- Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+- Web Applications (Angular / React)
+- Full Stack Projects (MERN)
+
+## 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/salah-eddine-houmadi-a704a721a/
